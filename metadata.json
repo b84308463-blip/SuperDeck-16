@@ -1,0 +1,6 @@
+{
+  "name": "SuperDeck 16",
+  "description": "Super Nintendo (SNES / Super Famicom) hardware emulator built in HTML5 Canvas, Web Audio, and JavaScript featuring a cycle-stepped WDC 65C816 CPU, Mode 0–7 PPU, SPC700/S-DSP audio, save states, and live hardware inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
